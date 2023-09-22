@@ -11,9 +11,9 @@
     - git config --global user.email "toshmat@gmail.com"
 6. create a new repo in git 
 - git init ✅
-- git status 
-- git add 
-- git commit 
+- git status ✅
+- git add ✅
+- git commit  ✅
 - git log - the history of commits
 - git reset
 7.  Branch/Merge
