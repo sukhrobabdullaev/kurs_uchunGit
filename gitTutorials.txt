@@ -1,0 +1,23 @@
+1. GIT nima? - VCS - version control system ✅ v0.0.0 -> v0.0.1 -> 
+2. pros of GIT ✅ 
+3. GIT vs GitHub ✅ version control system  service(hosting)
+4. git bash 
+        mkdir - make directory
+        cd - change directory
+        touch - create a file.
+        /folder - code .
+5.  git config - git config - -global user.name “username” ✅
+    - git config --global user.name “toshmat”
+    - git config --global user.email "toshmat@gmail.com"
+6. create a new repo in git 
+- git init ✅
+- git status 
+- git add 
+- git commit 
+- git log - the history of commits
+- git reset
+7.  Branch/Merge
+- git branch
+- git checkout 
+- git merge "branchname"
+8. collabration, working on a project
